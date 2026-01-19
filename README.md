@@ -1,21 +1,70 @@
-# 💫 About Me:
-👋 Hi, I’m Abhay<br><br>🎓 3rd-year B.Tech Computer Engineering student<br><br>💼 MERN Stack Web Development Intern at Webstack Academy<br><br>🤖 Strong AI-assisted developer — I use AI to learn faster, debug smarter, and write better code<br><br>🧠 Focused on core fundamentals, clean logic, and real-world problem solving<br><br>💻 Technical Skills<br>🌐 Web Development<br><br>⚛️ MERN Stack: MongoDB, Express.js, React.js, Node.js<br><br>🔗 REST API integration & async data handling<br><br>🎨 Responsive UI, animations, and interactive components<br><br>🛠 Debugging frontend & backend issues in real projects<br><br>📱 Android Development<br><br>🤖 Android app development fundamentals<br><br>📲 UI design, activity lifecycle, and basic app logic<br><br>🔄 API usage and data handling in mobile apps<br><br>🧑‍💻 Programming Languages<br><br>💡 C / C++ – strong in logic, control flow, and problem-solving<br><br>☕ Java – OOP concepts, backend & Android basics<br><br>🐍 Python – scripting, logic building, and data handling<br><br>🌐 JavaScript – core language + modern ES concepts<br><br>🧠 How I Work<br><br>🔍 Break problems into clear, solvable steps<br><br>📚 Learn by building, not just watching tutorials<br><br>🧩 Prefer understanding “why” before “how”<br><br>🚀 Comfortable picking up new tech fast<br><br>🚀 Currently Focused On<br><br>🏗 Building production-ready MERN projects<br><br>🔐 Authentication, APIs, and full-stack workflows<br><br>📈 Improving DSA, system thinking, and code quality<br><br>🌍 Preparing for internships & software engineering roles<br><br>🎯 Career Goals<br><br>💼 Secure a Web Developer / Software Engineer role<br><br>🧠 Become strong in end-to-end application development<br><br>🔧 Build projects that solve real-world problems<br><br>📊 Grow into a reliable, scalable, industry-ready developer<br><br>🛠 Tools & Technologies<br><br>🧰 Git & GitHub<br><br>🔗 REST APIs<br><br>🤖 AI tools for development & learning<br><br>🖥 VS Code<br><br>⭐ Fun Fact<br><br>♟ Chess player (ELO ~1100) — I enjoy strategy, patterns, and long-term thinking
+# Hi, I'm Abhay 👋  
+**B.Tech Computer Engineering (3rd Year)**  
+**MERN Stack Web Developer | AI-assisted learner**
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhaybhise.01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhay Bhise) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhiseabhay890@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AbhayBhise&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AbhayBhise&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhise&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I’m a computer engineering student focused on building **production-ready web applications**.  
+I value **strong fundamentals, clean logic, and real-world problem solving**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbhayBhise&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
+- Build full-stack web apps using the **MERN stack**
+- Design and integrate **REST APIs**
+- Handle authentication and async data flows
+- Debug frontend & backend issues in real projects
+- Use **AI tools** to learn faster and write better code
+
+---
+
+## 🛠 Tech Stack
+
+### Web Development
+- **MongoDB, Express.js, React.js, Node.js**
+- REST APIs, authentication
+- Responsive UI & reusable components
+
+### Programming Languages
+- **C / C++** – logic & problem-solving  
+- **Java** – OOP, backend & Android basics  
+- **JavaScript** – ES6+, async programming  
+- **Python** – scripting & data handling  
+
+### Tools
+- Git & GitHub  
+- Postman  
+- VS Code  
+- Firebase, MySQL  
+- Vercel  
+
+---
+
+## 🧠 How I Work
+- Break problems into clear steps  
+- Prefer understanding **why** before **how**  
+- Learn by building, not just tutorials  
+- Comfortable picking up new technologies  
+
+---
+
+## 🎯 Current Focus
+- Production-ready MERN projects  
+- Authentication & full-stack workflows  
+- Improving DSA and system thinking  
+- Preparing for software engineering roles  
+
+---
+
+## 📌 Career Goal
+To become a **reliable, industry-ready software engineer** capable of building scalable end-to-end applications.
+
+---
+
+## ♟ Fun Fact
+Chess player (ELO ~1100) — I enjoy strategy and long-term thinking.
+
+---
+
+## 🌐 Connect With Me
+- **LinkedIn:** https://linkedin.com/in/AbhayBhise  
+- **Instagram:** https://instagram.com/abhaybhise.01  
+- **Email:** bhiseabhay890@gmail.com
