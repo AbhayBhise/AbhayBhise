@@ -65,6 +65,6 @@ Chess player (ELO ~1100) — I enjoy strategy and long-term thinking.
 ---
 
 ## 🌐 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/AbhayBhise  
+- **LinkedIn:** https://www.linkedin.com/in/abhay-bhise-5916b1219/
 - **Instagram:** https://instagram.com/abhaybhise.01  
 - **Email:** bhiseabhay890@gmail.com
