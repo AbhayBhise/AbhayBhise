@@ -1,6 +1,6 @@
 # Hi, I'm Abhay 👋  
 **B.Tech Computer Engineering (3rd Year)**  
-**MERN Stack Web Developer | AI-assisted learner**
+**MERN Stack Web Developer | AI-assisted learner | Android Dev**
 
 I’m a computer engineering student focused on building **production-ready web applications**.  
 I value **strong fundamentals, clean logic, and real-world problem solving**.
