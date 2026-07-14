@@ -1,70 +1,28 @@
-# Hi, I'm Abhay 👋  
-**B.Tech Computer Engineering (3rd Year)**  
-**MERN Stack Web Developer | AI-assisted learner | Android Dev**
+# 💫 About Me:
+🔭 Building scalable backend systems, AI applications, and developer tools.<br><br>🤝 Open to collaborating on impactful open-source projects and innovative AI products.<br><br>🧠 Exploring System Design, Cloud Computing, Kubernetes, AI Agents, and Model Context Protocol (MCP).<br><br>🌱 Continuously learning production-grade software engineering and modern backend architecture.<br><br>💬 Ask me about Full-Stack Development, Backend APIs, AI Integration, Firebase, React, Node.js, and Hackathons.<br><br>⚡ Coffee ☕ + Chess ♟️ + Sci-Fi 🚀 = My debugging toolkit.
 
-I’m a computer engineering student focused on building **production-ready web applications**.  
-I value **strong fundamentals, clean logic, and real-world problem solving**.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhay Bhise) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhiseabhay890@gmail.com) 
 
-## 🚀 What I Do
-- Build full-stack web apps using the **MERN stack**
-- Design and integrate **REST APIs**
-- Handle authentication and async data flows
-- Debug frontend & backend issues in real projects
-- Use **AI tools** to learn faster and write better code
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AbhayBhise&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AbhayBhise&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhayBhise&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🛠 Tech Stack
-
-### Web Development
-- **MongoDB, Express.js, React.js, Node.js**
-- REST APIs, authentication
-- Responsive UI & reusable components
-
-### Programming Languages
-- **C / C++** – logic & problem-solving  
-- **Java** – OOP, backend & Android basics  
-- **JavaScript** – ES6+, async programming  
-- **Python** – scripting & data handling  
-
-### Tools
-- Git & GitHub  
-- Postman  
-- VS Code  
-- Firebase, MySQL  
-- Vercel  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbhayBhise&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AbhayBhise&icon=10&color=3)](https://visitcount.itsvg.in)
 
-## 🧠 How I Work
-- Break problems into clear steps  
-- Prefer understanding **why** before **how**  
-- Learn by building, not just tutorials  
-- Comfortable picking up new technologies  
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bhiseabhayq) 
 
----
-
-## 🎯 Current Focus
-- Production-ready MERN projects  
-- Authentication & full-stack workflows  
-- Improving DSA and system thinking  
-- Preparing for software engineering roles  
-
----
-
-## 📌 Career Goal
-To become a **reliable, industry-ready software engineer** capable of building scalable end-to-end applications.
-
----
-
-## ♟ Fun Fact
-Chess player (ELO ~1100) — I enjoy strategy and long-term thinking.
-
----
-
-## 🌐 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/abhay-bhise-5916b1219/
-- **Instagram:** https://instagram.com/abhaybhise.01  
-- **Email:** bhiseabhay890@gmail.com
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
