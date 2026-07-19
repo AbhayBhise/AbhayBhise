@@ -126,7 +126,7 @@ A computer vision system that recognizes American Sign Language gestures in real
 - PyTorch model for gesture classification
 - FastAPI inference backend for low-latency predictions
 
-📁 [`View Repository →`](https://github.com/AbhayBhise/SignSense)
+📁 [`Live →`](https://asl-frontend-chi.vercel.app/)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ An air quality forecasting tool that combines environmental data with ML models,
 - Feature engineering on environmental datasets
 - Interactive Streamlit app for live forecasts
 
-📁 [`View Repository →`](https://github.com/AbhayBhise/AQI-ML-Vision)
+📁 [`Live →`](https://frontend-sigma-six-81.vercel.app/)
 
 </td>
 </tr>
