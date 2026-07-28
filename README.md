@@ -17,7 +17,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-<img src="https://avatars.githubusercontent.com/u/103876858?v=4" width="200" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/u/103876858?v=4"/>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=AbhayBhise&label=Profile+Views&color=2563eb&style=flat"/>
 </td>
