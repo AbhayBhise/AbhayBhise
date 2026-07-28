@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://netfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:bhiseabhay890.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
@@ -17,7 +17,7 @@
 <table width="100%">
 <tr>
 <td width="30%" align="center">
-<img src="https://avatars.githubusercontent.com/u/103876858?v=4" width="200" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/AbhayBhise/AbhayBhise/main/profile.png" width="200" style="border-radius:50%"/>
 <br/><br/>
 <img src="https://komarev.com/ghpvc/?username=AbhayBhise&label=Profile+Views&color=2563eb&style=flat"/>
 </td>
@@ -126,7 +126,7 @@ A computer vision system that recognizes American Sign Language gestures in real
 - PyTorch model for gesture classification
 - FastAPI inference backend for low-latency predictions
 
-📁 [`Live →`](https://asl-frontend-chi.vercel.app/)
+📁 [`View Repository →`](https://github.com/AbhayBhise/SignSense)
 
 </td>
 </tr>
@@ -160,7 +160,7 @@ An air quality forecasting tool that combines environmental data with ML models,
 - Feature engineering on environmental datasets
 - Interactive Streamlit app for live forecasts
 
-📁 [`Live →`](https://frontend-sigma-six-81.vercel.app/)
+📁 [`View Repository →`](https://github.com/AbhayBhise/AQI-ML-Vision)
 
 </td>
 </tr>
@@ -236,10 +236,10 @@ side_quest : Contributing to open-source AI tooling
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhayBhise&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayBhise&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhayBhise&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=AbhayBhise&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhise&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhise&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhise&theme=tokyo-night&hide_border=true"/>
 
