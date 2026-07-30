@@ -10,11 +10,6 @@
 <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
-
-<br/>
-
-<!-- ================= WHOAMI ================= -->
-<table width="100%">
 <tr>
 <td width="30%" align="center">
 <img src="https://avatars.githubusercontent.com/u/103876858?v=4" width="200" style="border-radius:50%"/>
@@ -253,7 +248,7 @@ side_quest : Contributing to open-source AI tooling
 
 <a href="https://netfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:bhiseabhay890@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="www.linkedin.com/in/abhay-bhise-5916b1219"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhay-bhise-5916b1219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
