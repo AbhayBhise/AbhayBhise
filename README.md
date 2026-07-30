@@ -110,7 +110,7 @@ An ML pipeline that models urban heat island effects using satellite data, surfa
 - XGBoost regression for heat-risk prediction
 - Interactive geospatial visualization dashboard
 
-📁 [`View Repository →`](https://github.com/AbhayBhise/HeatPilot)
+📁 [`Live →`](https://urban-heat-mitigation.lovable.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -126,7 +126,7 @@ A computer vision system that recognizes American Sign Language gestures in real
 - PyTorch model for gesture classification
 - FastAPI inference backend for low-latency predictions
 
-📁 [`View Repository →`](https://github.com/AbhayBhise/SignSense)
+📁 [`Live →`](https://asl-frontend-chi.vercel.app/)
 
 </td>
 </tr>
