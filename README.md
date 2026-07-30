@@ -160,7 +160,7 @@ An air quality forecasting tool that combines environmental data with ML models,
 - Feature engineering on environmental datasets
 - Interactive Streamlit app for live forecasts
 
-📁 [`View Repository →`](https://github.com/AbhayBhise/AQI-ML-Vision)
+📁 [`Live →`](https://frontend-sigma-six-81.vercel.app/)
 
 </td>
 </tr>
