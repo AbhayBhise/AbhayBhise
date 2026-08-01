@@ -10,6 +10,7 @@
 <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
+<table>
 <tr>
 <td width="30%" align="center">
 <img src="https://avatars.githubusercontent.com/u/103876858?v=4" width="200" style="border-radius:50%"/>
