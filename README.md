@@ -231,15 +231,21 @@ side_quest : Contributing to open-source AI tooling
 
 ## 📊 GitHub Stats
 
+> ⚠️ *Stats cards require a self-hosted instance — see setup instructions below.*
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhayBhise&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+<!--
+  SETUP REQUIRED — takes 2 minutes:
+  1. Go to https://vercel.com/new and import this repo: https://github.com/anuraghazra/github-readme-stats
+  2. Add environment variable: GITHUB_TOKEN = (a GitHub PAT with `read:user` scope)
+  3. Deploy. Your personal URL will be: https://your-app.vercel.app
+  4. Replace YOUR_VERCEL_URL below with your actual deployment URL
+-->
+
+<img height="165" src="https://YOUR_VERCEL_URL/api?username=AbhayBhise&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 &nbsp;
-<img height="165" src="https://streak-stats.demolab.com/?user=AbhayBhise&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhise&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="165" src="https://YOUR_VERCEL_URL/api/top-langs/?username=AbhayBhise&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br/>
 
