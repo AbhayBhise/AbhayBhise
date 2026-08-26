@@ -6,10 +6,11 @@
 <br/>
 
 <a href="https://netfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_Live-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bhiseabhay890@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhay-bhise-5916b1219/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
+
 <table>
 <tr>
 <td width="30%" align="center">
@@ -232,10 +233,10 @@ side_quest : Contributing to open-source AI tooling
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=AbhayBhise&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=AbhayBhise&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbhayBhise&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayBhise&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbhayBhise&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayBhise&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayBhise&theme=tokyo-night&hide_border=true"/>
 
